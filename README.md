@@ -1,6 +1,6 @@
 Hi, I'm @JustinusJJ!
 
-Most of my latest work are in Gitlab, feel free to see me there!
+Some of my work are in Gitlab, feel free to see me there!
 
 I will update my GitHub ASAP.
 For now, thanks for your understanding & thanks for visiting.
